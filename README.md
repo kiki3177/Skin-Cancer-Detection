@@ -1,12 +1,8 @@
 # Skin-Cancer-Detection
 
-The final project for University of Washington IMT 575 Data ScienceIII.
-
-
+The final project for University of Washington IMT 575 Data Science III.
 
 Original dataset (HAM10000) source: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
-
-
 
 The project demonstrated the potential of CNN models in automating skin cancer detection using the HAM10000 dataset. 
 
